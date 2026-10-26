@@ -1,0 +1,44 @@
+{
+    "app": "mksl_tax",
+    "charts": [],
+    "content": "[{\"id\":\"mksltaxheader\",\"type\":\"header\",\"data\":{\"text\":\"<span style=\\\"font-size: 18px;\\\"><b>Mksl Tax Reports</b></span>\",\"col\":12}},{\"id\":\"mksltaxcard\",\"type\":\"card\",\"data\":{\"card_name\":\"Tax Reports\",\"col\":12}}]",
+    "custom_blocks": [],
+    "docstatus": 0,
+    "doctype": "Workspace",
+    "for_user": "",
+    "hide_custom": 0,
+    "icon": "file",
+    "idx": 0,
+    "is_hidden": 0,
+    "label": "Mksl Tax Reports",
+    "links": [
+        {
+            "hidden": 0,
+            "is_query_report": 1,
+            "label": "Mksl Sales Tax Report",
+            "link_count": 0,
+            "link_to": "Mksl Sales Tax Report",
+            "link_type": "Report",
+            "onboard": 0,
+            "type": "Link"
+        },
+        {
+            "hidden": 0,
+            "is_query_report": 1,
+            "label": "Mksl Purchase Tax Report",
+            "link_count": 0,
+            "link_to": "Mksl Purchase Tax Report",
+            "link_type": "Report",
+            "onboard": 0,
+            "type": "Link"
+        }
+    ],
+    "modified": "2026-10-26 00:00:00.000000",
+    "module": "Mksl Tax",
+    "name": "Mksl Tax Reports",
+    "public": 1,
+    "restrict_to_domain": "",
+    "roles": [],
+    "sequence_id": 1,
+    "title": "Mksl Tax Reports"
+}
